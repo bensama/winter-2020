@@ -80,7 +80,7 @@ def swap(c):
   b = c[-1]
   original_list[0] = b
   original_list[-1] = a
-  return # Put your return value here.
+  return original_list # Put your return value here.
 
 """**Problem 6**"""
 
