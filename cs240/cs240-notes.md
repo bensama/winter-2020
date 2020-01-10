@@ -24,7 +24,7 @@ java ImageEditor inputFileName outputFileName {grayscale|invert|emboss|motionblu
 
 ---
 
-## ***01-08-2020* - Java Fundamentals**
+## <span style="color:yellow">**01-08-2020** -- Java Fundamentals</span> 
 
 #### Similar syntax but different semantics from C++
 #### Java cleans up C++
@@ -36,3 +36,13 @@ java ImageEditor inputFileName outputFileName {grayscale|invert|emboss|motionblu
 - Classes dynamically linked at runtime
 - Java is a hybrid, compiled / interpreted language
 - Several other differences 
+
+## <span style="color:yellow">**01-10-2020** -- Java Fundaments cont'd</span> 
+
+- Java sits between Compiled and Interpreted Languages.
+- C++ is Compiled, Python is Interpreted
+- Interpreted is portable but slow, Compiled is not portable and need different source code for different browsers.
+- Java is a mix because it uses a JVM ( java virtual machine ) to be able to run natively on every machine 
+- MyClass.java = source file
+  - read, write, pixel, etc. will all be different .java files
+- MyClass.class = executable file
