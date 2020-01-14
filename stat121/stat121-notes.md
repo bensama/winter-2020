@@ -33,3 +33,34 @@
   - practical
   - cheap
   - often more accurate
+
+## <span style="color:red">**Lesson 4 -- 01-12-2020**</span>
+
+- *Undercoverage* - Some individuals have no possibility of being selected.
+  - Homeless people 
+  - phoneless people
+- *Non-Response Bias* - Selected individuals refuse to answer or cant be counted.
+  - hang-ups
+  - on vacation
+  - refusal to mail consensus form
+- *Misleading response* - Selected individuals lie or give inaccurate answer (sensitive issues)
+  - did you wash your hands?
+- *Interviewer effect* - Interviewer influences responses 
+  - rude
+  - intimidating to some people
+  - subtle clues or gestures
+- *Question Order Effect* - Order of questions promotes certain responses
+  - happiness questions precedes debt questions
+  - and vice versa
+  
+### Best questions to ask 
+
+- Open ended or close ended questions?
+
+- *Question Loading* - being too wordy or confusion people
+  - loaded questions
+  - leading questions
+  - double negatives
+  - wordy
+- *Experiment* - a study design where treatments are imposed on subjects before observing response
+  - *purpose: determine if treatments cause change or response*

@@ -46,3 +46,13 @@ java ImageEditor inputFileName outputFileName {grayscale|invert|emboss|motionblu
 - MyClass.java = source file
   - read, write, pixel, etc. will all be different .java files
 - MyClass.class = executable file
+
+## <span style="color:yellow">**01-13-2020** -- Java Fundaments cont'd</span> 
+
+### Javadoc
+
+- Documentation for the Java class library
+- Creates documentation for your Java class automatically instead of you having to write documentation
+- Strings are instances of classes.
+  - String s = new String("Hello");
+
